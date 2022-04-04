@@ -3,18 +3,29 @@ const ctx = canvas.getContext("2d");
 
 function drawBall(x, y, r){
 	with(ctx){
-		strokeStyle = "#FF0000";
 		beginPath();
-		arc(x,y, 0, 2*Math.PI, r,true);
-		closePath();
+		arc(x,y, r,0, 2*Math.PI);
 		stroke();
 	}
 
 }
 
+function drawPoint(r, angle){
+	with(ctx){
+		fillStyle = "red";
+		fillRect(r*Math.cos(angle), r*Math.sin(angle), 1, 1);
+	}
+}
+
+
+let angle = 0;
+let increment = 1;
+
 function main(){
-	drawBall(canvas.width/2, canvas.height/2,10);
+	drawBall(canvas.width/2, canvas.height/2, 100);
+	drawPoint(100, angle);
+	angle += increment;
 }
 
 main();
-drawBall();
+setInterval(main,1000/60);
