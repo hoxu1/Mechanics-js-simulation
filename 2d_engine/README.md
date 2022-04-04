@@ -7,8 +7,8 @@
 
 ## This are the **exercises** done after watching the toturials:
 
- 1) Drawing a Ball
- 2) Moving the Ball
+ 1) [Drawing a Ball](https://hoxu-1.github.io/Mechanics-js-simulation/2d_engine/2_drawing_a_ball/)
+ 2) [Moving the Ball](https://hoxu-1.github.io/Mechanics-js-simulation/2d_engine/2_Moving_the_Ball/)
  3) The Ball Class
  4) Ball Acceleration
  5) Introducing Vectors
