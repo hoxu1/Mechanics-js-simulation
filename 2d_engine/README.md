@@ -11,8 +11,8 @@
  2) [Moving the Ball](https://hoxu-1.github.io/Mechanics-js-simulation/2d_engine/2_Moving_the_Ball/)
  3) [The Ball Class](https://hoxu-1.github.io/Mechanics-js-simulation/2d_engine/3_The_Ball_Class/)
  4) [Ball Acceleration](https://hoxu-1.github.io/Mechanics-js-simulation/2d_engine/4_Ball_Acceleration/)
- 5) Introducing Vectors
- 6) Unit Vector, Dot Product
+ 5) [Introducing Vectors](https://hoxu-1.github.io/Mechanics-js-simulation/2d_engine/5_Introducing_Vectors/)
+ 6) [Unit Vector, Dot Product](https://hoxu-1.github.io/Mechanics-js-simulation/2d_engine/6_Unit_Vector_Dot_Product/)
  7) Ball to Ball Collision
  8) Collision Response
  9) Mass and Elasticity
