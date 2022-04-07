@@ -1,5 +1,11 @@
 # Mechanical Simulation exercises using JS
 
+--------------
+
+## DeadLINE == 21 APRIL
+
+--------------
+
 ## Sources:
  * [GitHub](https://github.com/danielszabo88/mocorgo)
 
